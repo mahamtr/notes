@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Maai's Virtual Garden
 ---
 
 This is a blank Quartz installation.
